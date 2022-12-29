@@ -1,7 +1,6 @@
 <template>
   <div id="app">
-    <router-view/>
-    彭志成
+    pengzhicheng
   </div>
 </template>
 
@@ -12,5 +11,6 @@
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
+  font-size: 50px;
 }
 </style>
